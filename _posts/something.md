@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 <article id="post-page">
 	<h2>{{ Find Me }}</h2>		
