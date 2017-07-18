@@ -8,5 +8,5 @@ title: Contact The Fool
 
 [![Le Twitter](https://image.freepik.com/free-icon/twitter-logo_318-40459.jpg )](https://twitter.com/wtfjoze)
 
-[<img src=https://image.freepik.com/free-icon/twitter-logo_318-40459.jpg" width="200" height="200" />]
+[<img src="https://image.freepik.com/free-icon/twitter-logo_318-40459.jpg" width="200" height="200" />]
 (https://twitter.com/wtfjoze)
