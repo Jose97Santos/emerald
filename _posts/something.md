@@ -1,2 +1,13 @@
+---
+layout: default
+---
+<article id="post-page">
+	<h2>{{ page.title }}</h2>		
+	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	<div class="content">
 
-Example 92
+		<p>
+    Something is here
+    </p>
+	</div>
+</article>
